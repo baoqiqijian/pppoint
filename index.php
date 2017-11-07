@@ -1,3 +1,1 @@
-<?php
-echo hi china;
-?>
+hi china
